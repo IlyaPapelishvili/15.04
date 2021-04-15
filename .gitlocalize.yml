@@ -1,5 +1,4 @@
 pretranslate:
   paths:
   - source: .
-    include:
-    - "FilePicture.md/*.*"
+   
