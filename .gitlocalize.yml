@@ -1,0 +1,6 @@
+synchronize:
+   paths:
+   -source: .
+   include:
+   - "_localizeble1.strings"
+   
