@@ -1,6 +1,5 @@
 pretranslate:
   paths:
   - source: .
-   include:
+    include:
     - "Files/*.*"
-   
