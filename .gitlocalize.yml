@@ -1,6 +1,5 @@
-synchronize:
-   paths:
-   -source: .
-   include:
-   - "_localizeble1.strings"
-   
+pretranslate:
+  paths:
+  - source: .
+    include:
+    - "FilePicture.md/*.*"
