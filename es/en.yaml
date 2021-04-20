@@ -1,0 +1,62 @@
+---
+- id: Recursos
+  translation: Recursos
+- id: Ocupaciones
+  translation: Ocupaciones
+- id: Informar
+  translation: Informar
+- id: InformarEvaluar
+  translation: Informar y evaluar
+- id: ShareData
+  translation: Compartir datos
+- id: IdentificarTendencias
+  translation: Identificar tendencias
+- id: Facilidad de uso
+  translation: Facilidad de uso
+- id: Transferir
+  translation: Transferir
+- id: Evaluación
+  translation: Evaluación
+- id: Interacción
+  translation: Interacción
+- id: Creación
+  translation: Creación
+- id: BloomLevels
+  translation: Niveles de Bloom
+- id: Leyenda
+  translation: Leyenda
+- id: Bien
+  translation: Gran ajuste y fácil
+- id: Neutral
+  translation: Puede trabajar con algún diseño
+- id: Malo
+  translation: No es la mejor herramienta para el trabajo
+- id: Verde
+  translation: verde
+- id: Amarillo
+  translation: amarillo
+- id: rojo
+  translation: rojo
+- id: CopyrightLine1
+  translation: Proporcionado por [Nicolas Martignoni] (https://blog.martignoni.net/a-propos/)
+    - El sitio web __ [moodletoolguide.net] (https://moodletoolguide.net) __ tiene
+    una licencia de [Creative Commons BY- NC-SA 4.0 International] (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+    Licencia.
+- id: CopyrightLine2
+  translation: Una idea de [Joyce Seitzinger] (https://twitter.com/catspyjamasnz)
+    del [Instituto de Tecnología del Este] (https://www.eit.ac.nz/) (NZ). Adaptado
+    por [Nicolas Martignoni] (https://blog.martignoni.net/a-propos/), basado en el
+    trabajo de [Gavin Henrick] (https://twitter.com/ghenrick).
+- id: Créditos Título
+  translation: Créditos y licencia
+- id: EnableDefaultColors
+  translation: Usar colores predeterminados
+- id: EnableAccessibleColors
+  translation: Habilitar colores accesibles
+- id: SupportTitle
+  translation: Apoyar con una donación
+- id: SupportText
+  translation: Haga una donación ahora ❤️ para apoyar el sitio web de la Guía de herramientas
+    de Moodle.
+- id: Done ahora
+  translation: "¡Done ahora!"
