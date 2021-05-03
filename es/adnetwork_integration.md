@@ -19,7 +19,7 @@ Como servidor de anuncios, puede integrarse con AMP para publicar anuncios HTML 
 ##### ¿Quiere publicar anuncios HTML de AMP?
 
 1. [`amp-ad`](../../../documentation/components/reference/amp-ad.md) (es decir, si aún no ha creado uno para publicar anuncios HTML tradicionales).
-2. [Cree una integración Fast Fetch para publicar anuncios HTML de AMP](#creating-a-fast-fetch-integration) .
+2.  [Cree una integración Fast Fetch para publicar anuncios HTML de AMP](https://www.onliner.by/) .
 
 ## Crear un `amp-ad`<a name="creating-an-amp-ad"></a>
 
