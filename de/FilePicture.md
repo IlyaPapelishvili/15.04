@@ -1,7 +1,3 @@
-Primer encabezado | Segundo encabezado
---- | ---
-Inhaltszelle | Inhaltszelle
-Inhaltszelle | Inhaltszelle
 
 уцфыквенгпрошщлзорпаве
 
